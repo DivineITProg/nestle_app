@@ -1,0 +1,38 @@
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\nesto app\nesto app\bin\Debug\nesto app.exe.config
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\nesto app\nesto app\bin\Debug\nesto app.exe
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\nesto app\nesto app\bin\Debug\nesto app.pdb
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\nesto app\nesto app\obj\Debug\nestle app.csprojResolveAssemblyReference.cache
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\nesto app\nesto app\obj\Debug\nesto_app.LOGIN.resources
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\nesto app\nesto app\obj\Debug\nesto_app.NESTLE_APP.resources
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\nesto app\nesto app\obj\Debug\nesto_app.Properties.Resources.resources
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\nesto app\nesto app\obj\Debug\nesto_app.STOCK_FILE.resources
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\nesto app\nesto app\obj\Debug\nestle app.csproj.GenerateResource.Cache
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\nesto app\nesto app\obj\Debug\nesto app.exe
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\nesto app\nesto app\obj\Debug\nesto app.pdb
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\NESTLE APP\nesto app\bin\Debug\nesto app.exe.config
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\NESTLE APP\nesto app\obj\Debug\nesto app.exe
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\NESTLE APP\nesto app\obj\Debug\nesto app.pdb
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\NESTLE APP\nesto app\bin\Debug\nesto app.exe
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\NESTLE APP\nesto app\bin\Debug\nesto app.pdb
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\NESTLE APP\nesto app\obj\Debug\nestle app.csprojResolveAssemblyReference.cache
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\NESTLE APP\nesto app\obj\Debug\nesto_app.LOGIN.resources
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\NESTLE APP\nesto app\obj\Debug\nesto_app.NESTLE_APP.resources
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\NESTLE APP\nesto app\obj\Debug\nesto_app.Properties.Resources.resources
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\NESTLE APP\nesto app\obj\Debug\nesto_app.STOCK_FILE.resources
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\NESTLE APP\nesto app\obj\Debug\nestle app.csproj.GenerateResource.Cache
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\NESTLE APP\nesto app\bin\Debug\NESTLE APP.accdb
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\NESTLE APP\nesto app\obj\Debug\nesto_app.STOCKFILEDISPLAY.resources
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\NESTLE APP\nesto app\obj\Debug\nesto_app.STOCK_DATA.resources
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\NESTLEAPP\nesto app\bin\Debug\nesto app.exe.config
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\NESTLEAPP\nesto app\obj\Debug\nesto app.exe
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\NESTLEAPP\nesto app\obj\Debug\nesto app.pdb
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\NESTLEAPP\nesto app\bin\Debug\NESTLE APP.accdb
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\NESTLEAPP\nesto app\bin\Debug\nesto app.exe
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\NESTLEAPP\nesto app\bin\Debug\nesto app.pdb
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\NESTLEAPP\nesto app\obj\Debug\nestle app.csprojResolveAssemblyReference.cache
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\NESTLEAPP\nesto app\obj\Debug\nesto_app.STOCKFILEDISPLAY.resources
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\NESTLEAPP\nesto app\obj\Debug\nesto_app.LOGIN.resources
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\NESTLEAPP\nesto app\obj\Debug\nesto_app.NESTLE_APP.resources
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\NESTLEAPP\nesto app\obj\Debug\nesto_app.Properties.Resources.resources
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\NESTLEAPP\nesto app\obj\Debug\nesto_app.STOCK_FILE.resources
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\NESTLEAPP\nesto app\obj\Debug\nestle app.csproj.GenerateResource.Cache
