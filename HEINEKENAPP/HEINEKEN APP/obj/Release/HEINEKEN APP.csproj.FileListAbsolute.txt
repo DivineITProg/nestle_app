@@ -1,0 +1,10 @@
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\HEINEKEN APP\HEINEKEN APP\bin\Release\HEINEKEN APP.exe.config
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\HEINEKEN APP\HEINEKEN APP\bin\Release\HEINEKEN APP.exe
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\HEINEKEN APP\HEINEKEN APP\bin\Release\HEINEKEN APP.pdb
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\HEINEKEN APP\HEINEKEN APP\obj\Release\HEINEKEN_APP.CUSTOMER_FILE.resources
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\HEINEKEN APP\HEINEKEN APP\obj\Release\HEINEKEN_APP.LOGIN.resources
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\HEINEKEN APP\HEINEKEN APP\obj\Release\HEINEKEN_APP.Properties.Resources.resources
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\HEINEKEN APP\HEINEKEN APP\obj\Release\HEINEKEN_APP.STOCK_FILE.resources
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\HEINEKEN APP\HEINEKEN APP\obj\Release\HEINEKEN APP.csproj.GenerateResource.Cache
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\HEINEKEN APP\HEINEKEN APP\obj\Release\HEINEKEN APP.exe
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\HEINEKEN APP\HEINEKEN APP\obj\Release\HEINEKEN APP.pdb

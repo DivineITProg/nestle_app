@@ -1,0 +1,26 @@
+c:\users\divinestickz\documents\visual studio 2015\Projects\HEINEKEN APP\HEINEKEN APP\bin\Debug\HEINEKEN APP.exe.config
+c:\users\divinestickz\documents\visual studio 2015\Projects\HEINEKEN APP\HEINEKEN APP\bin\Debug\HEINEKEN APP.exe
+c:\users\divinestickz\documents\visual studio 2015\Projects\HEINEKEN APP\HEINEKEN APP\bin\Debug\HEINEKEN APP.pdb
+c:\users\divinestickz\documents\visual studio 2015\Projects\HEINEKEN APP\HEINEKEN APP\obj\Debug\HEINEKEN APP.csprojResolveAssemblyReference.cache
+c:\users\divinestickz\documents\visual studio 2015\Projects\HEINEKEN APP\HEINEKEN APP\obj\Debug\HEINEKEN_APP.CUSTOMER_FILE.resources
+c:\users\divinestickz\documents\visual studio 2015\Projects\HEINEKEN APP\HEINEKEN APP\obj\Debug\HEINEKEN_APP.LOGIN.resources
+c:\users\divinestickz\documents\visual studio 2015\Projects\HEINEKEN APP\HEINEKEN APP\obj\Debug\HEINEKEN_APP.Properties.Resources.resources
+c:\users\divinestickz\documents\visual studio 2015\Projects\HEINEKEN APP\HEINEKEN APP\obj\Debug\HEINEKEN_APP.STOCK_FILE.resources
+c:\users\divinestickz\documents\visual studio 2015\Projects\HEINEKEN APP\HEINEKEN APP\obj\Debug\HEINEKEN APP.csproj.GenerateResource.Cache
+c:\users\divinestickz\documents\visual studio 2015\Projects\HEINEKEN APP\HEINEKEN APP\obj\Debug\HEINEKEN APP.exe
+c:\users\divinestickz\documents\visual studio 2015\Projects\HEINEKEN APP\HEINEKEN APP\obj\Debug\HEINEKEN APP.pdb
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\HEINEKEN APP\HEINEKEN APP\bin\Debug\HEINEKEN APP.accdb
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\HEINEKEN APP\HEINEKEN APP\obj\Debug\HEINEKEN_APP.STOCK_FILE_DISPLAY.resources
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\HEINEKENAPP\HEINEKEN APP\bin\Debug\HEINEKEN APP.exe.config
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\HEINEKENAPP\HEINEKEN APP\obj\Debug\HEINEKEN APP.exe
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\HEINEKENAPP\HEINEKEN APP\obj\Debug\HEINEKEN APP.pdb
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\HEINEKENAPP\HEINEKEN APP\bin\Debug\HEINEKEN APP.accdb
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\HEINEKENAPP\HEINEKEN APP\bin\Debug\HEINEKEN APP.exe
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\HEINEKENAPP\HEINEKEN APP\bin\Debug\HEINEKEN APP.pdb
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\HEINEKENAPP\HEINEKEN APP\obj\Debug\HEINEKEN APP.csprojResolveAssemblyReference.cache
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\HEINEKENAPP\HEINEKEN APP\obj\Debug\HEINEKEN_APP.CUSTOMER_FILE.resources
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\HEINEKENAPP\HEINEKEN APP\obj\Debug\HEINEKEN_APP.LOGIN.resources
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\HEINEKENAPP\HEINEKEN APP\obj\Debug\HEINEKEN_APP.Properties.Resources.resources
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\HEINEKENAPP\HEINEKEN APP\obj\Debug\HEINEKEN_APP.STOCK_FILE_DISPLAY.resources
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\HEINEKENAPP\HEINEKEN APP\obj\Debug\HEINEKEN_APP.STOCK_FILE.resources
+C:\Users\Divinestickz\Documents\Visual Studio 2015\Projects\HEINEKENAPP\HEINEKEN APP\obj\Debug\HEINEKEN APP.csproj.GenerateResource.Cache
